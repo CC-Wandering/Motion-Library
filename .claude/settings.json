@@ -1,0 +1,10 @@
+   {
+     "extraKnownMarketplaces": {
+       "motion-prompt": {
+         "source": { "source": "github", "repo": "showheyohtaki/motion-prompt" }
+       }
+     },
+     "enabledPlugins": {
+       "motion-prompt@motion-prompt": true
+     }
+   }
